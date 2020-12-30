@@ -76,11 +76,11 @@
 
 截图
 ---
-![Image](image/image_new_01.jpg)
-![Image](image/image_new_02.jpg)
-![Image](image/image_new_05.jpg)
-![Image](image/image_new_03.jpg)
-![Image](image/image_new_04.jpg)
+![Image](image/1.png)
+![Image](image/2.png)
+![Image](image/3.png)
+![Image](image/4.png)
+![Image](image/5.png)
 
 
 历史版本
