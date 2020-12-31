@@ -100,5 +100,5 @@
 
 赞赏
 ---
-![Image](image/zs.jpg)
+![Image](image/zs.JPG)
 
