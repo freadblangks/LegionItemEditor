@@ -88,8 +88,10 @@
 ![Image](image/3.png)
 ![Image](image/4.png)
 ![Image](image/5.png)
-![Image](image/6.png)
-![Image](image/7.png)
+![Image](image/6.jpg)
+![Image](image/7.jpg)
+![Image](image/8.jpg)
+![Image](image/9.jpg)
 
 
 历史版本
