@@ -4,7 +4,7 @@
 
 [有爱论坛发布地址](http://uiwow.com/thread-9609-1-1.html)
 
-[百度网盘下载](链接：https://pan.baidu.com/s/1RykeMm78QvwR1dxCmICYLg) 提取码：1234
+[百度网盘下载](https://pan.baidu.com/s/1RykeMm78QvwR1dxCmICYLg) 提取码：1234
 
 基于PyQt5的军团物品编辑器
 
