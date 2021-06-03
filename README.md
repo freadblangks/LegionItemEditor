@@ -3,11 +3,11 @@
 ## 军团物品编辑器
 
 下载地址：
-[有爱论坛发布地址](http://uiwow.com/thread-9609-1-1.html)
+链接1：[有爱论坛发布地址](http://uiwow.com/thread-9609-1-1.html)
 
-[百度网盘下载](https://pan.baidu.com/s/1RykeMm78QvwR1dxCmICYLg) 提取码：1234
+链接2：[百度网盘下载](https://pan.baidu.com/s/1RykeMm78QvwR1dxCmICYLg) 提取码：1234
 
-[release](https://github.com/freadblangks/LegionItemEditor/releases/tag/v1.6)
+链接3:[release](https://github.com/freadblangks/LegionItemEditor/releases/download/v1.6/_v1.6.zip)
 
 基于PyQt5的军团物品编辑器
 
