@@ -2,9 +2,13 @@
 
 ## 军团物品编辑器
 
-[有爱论坛发布地址](http://uiwow.com/thread-9609-1-1.html)
+下载地址：
 
-[百度网盘下载](https://pan.baidu.com/s/1RykeMm78QvwR1dxCmICYLg) 提取码：1234
+链接1：[有爱论坛发布地址](http://uiwow.com/thread-9609-1-1.html)
+
+链接2：[百度网盘下载](https://pan.baidu.com/s/16vC7H-LvNenN1VkEdCCabA) 提取码：368j
+
+链接3：[Github-release-v1.6](https://github.com/freadblangks/LegionItemEditor/releases/download/v1.6/_v1.6.zip)
 
 基于PyQt5的军团物品编辑器
 
@@ -12,7 +16,7 @@
 
 > 功能本身不难，但是细节很多，翻译或注释可能不准确，毕竟资料少
 
-> 支持所有735端的物品编辑，测试过OpenLCore，Uwow，Cwcore
+> 支持所有735端的物品编辑，测试过Trinitycore，OpenLCore，Uwow，Cwcore
 
 > 软件测试环境Win10，分辨率1920 *1080，最低分辨率1366 *768，其他分辨率可能会出现问题
 
@@ -33,7 +37,7 @@
 
 > 4、弹出的对话框全部点Yes
 
->   （会创建三个表item_template_26972,item_template,item_effect）
+>   （会创建四个表item_template_26972,item_template,item_effect，spell）
 
 	sql读取方式有问题，分割会被注释影响，所以不建议将自己创建sql替换原有sql
 
