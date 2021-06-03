@@ -95,7 +95,10 @@
 
 历史版本
 ---
-[v1.0]
+[v1.0](https://github.com/freadblangks/LegionItemEditor/releases/download/v1.0)
+[v1.1](https://github.com/freadblangks/LegionItemEditor/releases/download/v1.1)
+[v1.2](https://github.com/freadblangks/LegionItemEditor/releases/download/v1.2)
+[v1.3](https://github.com/freadblangks/LegionItemEditor/releases/download/v1.3)
 
 赞赏
 ---
