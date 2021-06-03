@@ -8,7 +8,7 @@
 
 链接2：[百度网盘下载](https://pan.baidu.com/s/1RykeMm78QvwR1dxCmICYLg) 提取码：1234
 
-链接3:[release](https://github.com/freadblangks/LegionItemEditor/releases/download/v1.6/_v1.6.zip)
+链接3: [Github-release-v1.6](https://github.com/freadblangks/LegionItemEditor/releases/download/v1.6/_v1.6.zip)
 
 基于PyQt5的军团物品编辑器
 
