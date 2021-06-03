@@ -6,7 +6,7 @@
 
 链接1：[有爱论坛发布地址](http://uiwow.com/thread-9609-1-1.html)
 
-链接2：[百度网盘下载](https://pan.baidu.com/s/1RykeMm78QvwR1dxCmICYLg) 提取码：1234
+链接2：[百度网盘下载](https://pan.baidu.com/s/16vC7H-LvNenN1VkEdCCabA) 提取码：368j
 
 链接3：[Github-release-v1.6](https://github.com/freadblangks/LegionItemEditor/releases/download/v1.6/_v1.6.zip)
 
