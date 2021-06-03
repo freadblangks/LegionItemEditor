@@ -12,7 +12,7 @@
 
 > 功能本身不难，但是细节很多，翻译或注释可能不准确，毕竟资料少
 
-> 支持所有735端的物品编辑，测试过OpenLCore，Uwow，Cwcore
+> 支持所有735端的物品编辑，测试过Trinitycore，OpenLCore，Uwow，Cwcore
 
 > 软件测试环境Win10，分辨率1920 *1080，最低分辨率1366 *768，其他分辨率可能会出现问题
 
@@ -33,7 +33,7 @@
 
 > 4、弹出的对话框全部点Yes
 
->   （会创建三个表item_template_26972,item_template,item_effect）
+>   （会创建四个表item_template_26972,item_template,item_effect，spell）
 
 	sql读取方式有问题，分割会被注释影响，所以不建议将自己创建sql替换原有sql
 
